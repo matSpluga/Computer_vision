@@ -1,0 +1,1 @@
+Because of the file size limitations set at 5MB, the images used to make the program work are not put in the folder. It is needed to put the Rubik, Mire and OtherPairs folders inside the Spluga_Lab06 folder. 

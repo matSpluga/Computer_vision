@@ -1,0 +1,1 @@
+Considering the ImageMatching folder, the only modification done on the files inside of it is the delta value changed to 10 in the fndMatches.m file. Therefore, the folder hasn't been put in the Spluga_Lab06 zip folder (it is needed to change delta manually to 10 when putting the ImageMatching folder in the zip folder).

@@ -1,0 +1,1 @@
+The 3 videos required to make the program work should be put in a folder called 'Video' inside the main 'Spluga_Lab07' folder.

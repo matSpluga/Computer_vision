@@ -1,0 +1,1 @@
+Because of the file size limitations set at 5MB, the images used to make the program work are not put in the folder. Basing on how the program reads them, it is needed to put them one by one in the same folder where the main file, the "include" folder and the report are positioned. 
